@@ -2,7 +2,10 @@
 
 int main(){
 
-    std::cout << "Hello world";
+    int age;
+    std::cout << "Enter your age: ";
+    std::cin >> age;
+    
 
     return 0;
 }
